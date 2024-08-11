@@ -1,0 +1,1 @@
+open_weather = 'eb5662b78775c8363bbead68b7629477'
